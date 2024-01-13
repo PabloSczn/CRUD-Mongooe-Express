@@ -30,7 +30,7 @@ cd farm-stand-express
 2. Install dependencies:
 
 ```bash
-npm i mongoose express method-override ejs
+npm install
 ```
 
 3. Start the application (using node):
