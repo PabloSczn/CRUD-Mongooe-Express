@@ -36,6 +36,7 @@ npm install
 3. Start the application (using node):
 
 ```bash
+node seeds.js
 node index.js
 ```
 
