@@ -23,8 +23,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/farm-stand-express.git
-cd farm-stand-express
+git clone https://github.com/PabloSczn/CRUD-Mongoose-Express.git
+cd CRUD-Mongoose-Express
 ```
 
 2. Install dependencies:
