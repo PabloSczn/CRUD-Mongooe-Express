@@ -53,6 +53,12 @@ app.get('/products/:id', async (req, res) => {
     res.render('products/details', {product})
 })
 
+app.delete('/products/:id', async(req, res) => {
+    const id = req.params.id;
+    const product = await Product.findByIdAndDelete(id);
+    res.redirect('/products');
+})
+
 app.listen(3000, () => {
     console.log("App listening in 3000")
 })
