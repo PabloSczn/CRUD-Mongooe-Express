@@ -1,6 +1,3 @@
-Certainly! Here's a basic README file you can use for your GitHub project:
-
-```markdown
 # Farm Stand Express App
 
 Farm Stand Express App is a simple web application built with Node.js, Express, and MongoDB, allowing users to manage a list of farm products.
