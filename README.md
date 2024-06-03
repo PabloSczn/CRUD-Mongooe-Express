@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/PabloSczn/CRUD-Mongoose-Express.git
+git clone https://github.com/PabloSczn/CRUD-mongoose-express.git
 cd CRUD-Mongoose-Express
 ```
 
