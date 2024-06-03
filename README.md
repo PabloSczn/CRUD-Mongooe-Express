@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 ```bash
 git clone https://github.com/PabloSczn/CRUD-mongoose-express.git
-cd CRUD-Mongoose-Express
+cd CRUD-mongoose-express
 ```
 
 2. Install dependencies:
